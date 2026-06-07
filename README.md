@@ -1,25 +1,69 @@
-
 <h1 align="center">Hi 👋, I'm Vikas Reddy Chaduvu</h1>
-<h3 align="center">I am a highly motivated Computer Science graduate student holding a rock-solid structural foundation in Python application architecture, high-efficiency data handling pipelines, and algorithmic problem-solving methodologies. Deeply intrigued by smart ecosystems, I am consistently exploring and building inside fields like Artificial Intelligence, Machine Learning, and complex rule automation systems to architect production-ready technology frameworks.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasreddychaduvu&label=Profile%20views&color=0e75b6&style=flat" alt="vikasreddychaduvu" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikasreddychaduvu" alt="vikasreddychaduvu" /></a> </p>
+## 🚀 About Me
 
-- 🌱 I’m currently learning **MongoDb, RabbitMQ**
+Computer Science graduate passionate about **Data Analytics, Machine Learning, Artificial Intelligence, and Backend Technologies**. I enjoy building intelligent systems, automation solutions, and data-driven applications while continuously learning modern technologies.
 
-- 👨‍💻 All of my projects are available at [https://vikasreddychaduvu.github.io/Portfolio/](https://vikasreddychaduvu.github.io/Portfolio/)
+- 🌱 Currently learning **MongoDB, RabbitMQ, Linux**
+- 💻 Interested in **Data Analytics, Machine Learning, AI, and Backend Development**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vikas reddy ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas reddy ch" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vikasreddy10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vikasreddy10" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vikasreddy10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikasreddy10" height="30" width="40" /></a>
+- 🌐 Portfolio:
+  <a href="https://vikasreddychaduvu.github.io/Portfolio/" target="_blank">
+  https://vikasreddychaduvu.github.io/Portfolio/
+  </a>
+
+- 💼 LinkedIn:
+  <a href="https://www.linkedin.com/in/vikas-reddy-ch/" target="_blank">
+  https://www.linkedin.com/in/vikas-reddy-ch/
+  </a>
+
+- 🏆 LeetCode:
+  <a href="https://leetcode.com/u/vikasreddy10/" target="_blank">
+  https://leetcode.com/u/vikasreddy10/
+  </a>
+
+- 🍽️ CodeChef:
+  <a href="https://www.codechef.com/users/vikasreddy10" target="_blank">
+  https://www.codechef.com/users/vikasreddy10
+  </a>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VikasReddyChaduvu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikasreddychaduvu&show_icons=true&locale=en&layout=compact" alt="vikasreddychaduvu" /></p>
+## 🛠️ Languages & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikasreddychaduvu&show_icons=true&locale=en" alt="vikasreddychaduvu" /></p>
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=pytorch" />
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VikasReddyChaduvu&theme=react-dark" />
+</p>
+
+---
+
+## 💡 Quote
+
+> "Continuous learning and consistent practice create extraordinary results."
