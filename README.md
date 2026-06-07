@@ -9,25 +9,31 @@ Computer Science graduate passionate about **Data Analytics, Machine Learning, A
 - 🌱 Currently learning **MongoDB, RabbitMQ, Linux**
 - 💻 Interested in **Data Analytics, Machine Learning, AI, and Backend Development**
 
-- 🌐 Portfolio:
-  <a href="https://vikasreddychaduvu.github.io/Portfolio/" target="_blank">
-  https://vikasreddychaduvu.github.io/Portfolio/
-  </a>
+<div align="left">
 
-- 💼 LinkedIn:
-  <a href="https://www.linkedin.com/in/vikas-reddy-ch/" target="_blank">
-  https://www.linkedin.com/in/vikas-reddy-ch/
-  </a>
+<a href="mailto:vikasreddychaduvu@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-- 🏆 LeetCode:
-  <a href="https://leetcode.com/u/vikasreddy10/" target="_blank">
-  https://leetcode.com/u/vikasreddy10/
-  </a>
+<a href="https://www.linkedin.com/in/vikas-reddy-ch/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-- 🍽️ CodeChef:
-  <a href="https://www.codechef.com/users/vikasreddy10" target="_blank">
-  https://www.codechef.com/users/vikasreddy10
-  </a>
+<a href="https://vikasreddychaduvu.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/vikasreddy10/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.codechef.com/users/vikasreddy10">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge" />
+</a>
+
+</div>
+
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VikasReddyChaduvu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -67,3 +73,4 @@ Computer Science graduate passionate about **Data Analytics, Machine Learning, A
 ## 💡 Quote
 
 > "Continuous learning and consistent practice create extraordinary results."
+```
