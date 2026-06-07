@@ -1,69 +1,100 @@
-<h1 align="center">Hi 👋, I'm Vikas Reddy Chaduvu</h1>
+<h2 align="left">Hi 👋! My name is Vikas Reddy Chaduvu and I'm a Computer Science Graduate passionate about Data Analytics, Machine Learning, Artificial Intelligence, and Backend Development, from India.</h2>
 
----
+###
 
-## 🚀 About Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VikasReddyChaduvu&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasReddyChaduvu&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
+</div>
 
-Computer Science graduate passionate about **Data Analytics, Machine Learning, Artificial Intelligence, and Backend Technologies**. I enjoy building intelligent systems, automation solutions, and data-driven applications while continuously learning modern technologies.
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+
+###
+
+<h3>🚀 About Me</h3>
 
 - 🌱 Currently learning **MongoDB, RabbitMQ, Linux**
 - 💻 Interested in **Data Analytics, Machine Learning, AI, and Backend Development**
+- 🌐 Portfolio: https://vikasreddychaduvu.github.io/Portfolio/
+- 💼 LinkedIn: https://www.linkedin.com/in/vikas-reddy-ch/
+- 🏆 LeetCode: https://leetcode.com/u/vikasreddy10/
+- 🍽️ CodeChef: https://www.codechef.com/users/vikasreddy10
 
-- 🌐 Portfolio:
-  <a href="https://vikasreddychaduvu.github.io/Portfolio/" target="_blank">
-  https://vikasreddychaduvu.github.io/Portfolio/
+###
+
+<h3>🛠️ Languages & Tools</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" alt="tensorflow logo" />
+  <img width="12" />
+
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="35" alt="pytorch logo" />
+</div>
+
+###
+
+<h3>🌐 Profiles</h3>
+
+<div align="left">
+
+  <a href="https://www.linkedin.com/in/vikas-reddy-ch/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" />
   </a>
 
-- 💼 LinkedIn:
-  <a href="https://www.linkedin.com/in/vikas-reddy-ch/" target="_blank">
-  https://www.linkedin.com/in/vikas-reddy-ch/
+  <a href="https://leetcode.com/u/vikasreddy10/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" height="35" />
   </a>
 
-- 🏆 LeetCode:
-  <a href="https://leetcode.com/u/vikasreddy10/" target="_blank">
-  https://leetcode.com/u/vikasreddy10/
+  <a href="https://www.codechef.com/users/vikasreddy10">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge" height="35" />
   </a>
 
-- 🍽️ CodeChef:
-  <a href="https://www.codechef.com/users/vikasreddy10" target="_blank">
-  https://www.codechef.com/users/vikasreddy10
+  <a href="https://vikasreddychaduvu.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" height="35" />
   </a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VikasReddyChaduvu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=VikasReddyChaduvu&label=Profile%20Views&color=0e75b6&style=for-the-badge" height="35" />
 
----
+</div>
 
-## 🛠️ Languages & Tools
+###
 
-<p align="left">
+<br clear="both">
 
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://skillicons.dev/icons?i=pytorch" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VikasReddyChaduvu&theme=react-dark" alt="Contribution Graph" />
 
-</p>
+###
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VikasReddyChaduvu&theme=react-dark" />
-</p>
-
----
-
-## 💡 Quote
-
-> "Continuous learning and consistent practice create extraordinary results."
+> 💡 "Continuous learning and consistent practice create extraordinary results."
