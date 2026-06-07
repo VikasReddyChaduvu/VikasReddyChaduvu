@@ -14,20 +14,21 @@ Computer Science graduate passionate about **Data Analytics, Machine Learning, A
   https://vikasreddychaduvu.github.io/Portfolio/
   </a>
 
-- 💼 LinkedIn:
-  <a href="https://www.linkedin.com/in/vikas-reddy-ch/" target="_blank">
-  https://www.linkedin.com/in/vikas-reddy-ch/
-  </a>
+<p align="left">
 
-- 🏆 LeetCode:
-  <a href="https://leetcode.com/u/vikasreddy10/" target="_blank">
-  https://leetcode.com/u/vikasreddy10/
-  </a>
+<a href="https://www.linkedin.com/in/vikas-reddy-ch/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
 
-- 🍽️ CodeChef:
-  <a href="https://www.codechef.com/users/vikasreddy10" target="_blank">
-  https://www.codechef.com/users/vikasreddy10
-  </a>
+<a href="https://leetcode.com/u/vikasreddy10/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="45"/>
+</a>
+
+<a href="https://www.codechef.com/users/vikasreddy10" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="45"/>
+</a>
+
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VikasReddyChaduvu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -56,6 +57,19 @@ Computer Science graduate passionate about **Data Analytics, Machine Learning, A
 
 ---
 
+## 📚 Learning Progress
+
+| Technology | Progress |
+|------------|----------|
+| Python | █████████░ 85% |
+| SQL | ████████░░ 80% |
+| Machine Learning | ███████░░░ 70% |
+| Linux | ██████░░░░ 60% |
+| MongoDB | █████░░░░░ 50% |
+| RabbitMQ | ███░░░░░░░ 30% |
+
+---
+
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -67,4 +81,3 @@ Computer Science graduate passionate about **Data Analytics, Machine Learning, A
 ## 💡 Quote
 
 > "Continuous learning and consistent practice create extraordinary results."
-
