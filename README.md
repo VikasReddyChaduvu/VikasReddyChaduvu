@@ -75,3 +75,5 @@ Computer Science graduate passionate about **Data Science, Machine Learning, Art
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VikasReddyChaduvu&theme=react-dark" />
 </p>
+
+---
