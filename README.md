@@ -4,10 +4,10 @@
 
 ## 🚀 About Me
 
-Computer Science graduate passionate about **Data Analytics, Machine Learning, Artificial Intelligence, and Backend Technologies**. I enjoy building intelligent systems, automation solutions, and data-driven applications while continuously learning modern technologies.
+Computer Science graduate passionate about **Data Science, Machine Learning, Artificial Intelligence, and Backend Technologies**. I enjoy building intelligent systems, automation solutions, and data-driven applications while continuously learning modern technologies.
 
 - 🌱 Currently learning **MongoDB, RabbitMQ, Linux**
-- 💻 Interested in **Data Analytics, Machine Learning, AI, and Backend Development**
+- 💻 Interested in **Data Science, Machine Learning, AI, and Backend Development**
 
 <div align="left">
 
