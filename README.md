@@ -6,8 +6,8 @@
 
 Computer Science graduate passionate about **Data Analytics, Machine Learning, Artificial Intelligence, and Backend Technologies**. I enjoy building intelligent systems, automation solutions, and data-driven applications while continuously learning modern technologies.
 
-- 🌱 Currently learning **MongoDB, RabbitMQ, Linux**
-- 💻 Interested in **Data Analytics, Machine Learning, AI, and Backend Development**
+* 🌱 Currently learning **MongoDB, RabbitMQ, Linux**
+* 💻 Interested in **Data Analytics, Machine Learning, AI, and Backend Development**
 
 <div align="left">
 
@@ -41,40 +41,55 @@ Computer Science graduate passionate about **Data Analytics, Machine Learning, A
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Skills & Activity
 
-<p align="left">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://skillicons.dev/icons?i=pytorch" />
+### 🛠️ Languages & Tools
 
-</p>
+<img src="https://skillicons.dev/icons?i=c,html,css,js,java,python,linux,git,mysql,mongodb,tensorflow,pytorch" />
 
----
+</td>
 
-## 🔥 GitHub Streak
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VikasReddyChaduvu&theme=tokyonight&hide_border=true" />
-</p>
+### 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VikasReddyChaduvu&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VikasReddyChaduvu&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VikasReddyChaduvu&theme=react-dark&hide_border=true" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Finding Donors for CharityML
+
+Machine Learning project that predicts potential donors using supervised learning algorithms and hyperparameter tuning.
+
+### 📄 Intelligent Research Paper Summarizer
+
+AI-powered application that summarizes research papers and extracts key insights.
+
+### 🏫 Live Exam Scheduling and Room Allocation System
+
+Automated system for exam scheduling and room allocation to optimize resource utilization.
+
+### 📈 Stock Price Predictor
+
+Machine Learning model for analyzing historical stock data and predicting future trends.
 
 ---
 
