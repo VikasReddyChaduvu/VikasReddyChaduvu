@@ -60,14 +60,6 @@ Computer Science graduate passionate about **Data Science, Machine Learning, Art
 
 ---
 
-## 📚 Most Used Languages
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasReddyChaduvu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
