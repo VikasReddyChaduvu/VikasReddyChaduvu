@@ -62,6 +62,14 @@ Computer Science graduate passionate about **Data Analytics, Machine Learning, A
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VikasReddyChaduvu&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -73,4 +81,3 @@ Computer Science graduate passionate about **Data Analytics, Machine Learning, A
 ## 💡 Quote
 
 > "Continuous learning and consistent practice create extraordinary results."
-```
