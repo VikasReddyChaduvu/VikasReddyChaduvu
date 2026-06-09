@@ -103,9 +103,6 @@ AI-powered application that summarizes research papers and extracts key insights
 ### 🏫 Live Exam Scheduling and Room Allocation System
 Automated system for exam scheduling and room allocation to optimize resource utilization.
 
-### 📈 Stock Price Predictor
-Machine Learning model for analyzing historical stock data and predicting future trends.
-
 ---
 
 ## 📫 Connect With Me
