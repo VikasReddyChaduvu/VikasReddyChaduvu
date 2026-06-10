@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vikas Reddy Chaduvu</h1>
-
+<h1 align="center">
+  Hi 👋, I'm Vikas Reddy Chaduvu
+  <img src="https://komarev.com/ghpvc/?username=VikasReddyChaduvu&label=Views&color=0e75b6&style=flat" />
+</h1>
 ---
 
 ## 🚀 About Me
@@ -25,12 +27,6 @@ Computer Science graduate passionate about **Data Analytics, Machine Learning, A
   <a href="https://www.codechef.com/users/vikasreddy10">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge" />
   </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VikasReddyChaduvu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
