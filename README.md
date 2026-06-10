@@ -9,9 +9,7 @@ Computer Science graduate passionate about **Data Analytics, Machine Learning, A
 - 🌱 Currently learning **MongoDB, RabbitMQ, Linux**
 - 💻 Interested in **Data Analytics, Machine Learning, AI, and Backend Development**
 
-<div align="left">
-
-<p align="center">
+<p align="left">
   <a href="mailto:vikasreddychaduvu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -28,8 +26,6 @@ Computer Science graduate passionate about **Data Analytics, Machine Learning, A
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge" />
   </a>
 </p>
-
-</div>
 
 <br>
 
