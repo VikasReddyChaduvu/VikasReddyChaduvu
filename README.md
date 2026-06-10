@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vikas Reddy Chaduvu</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VikasReddyChaduvu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
 
 ## 🚀 About Me
 
@@ -10,6 +6,9 @@ Computer Science graduate passionate about **Data Analytics, Machine Learning, A
 
 - 🌱 Currently learning **MongoDB, RabbitMQ, Linux**
 - 💻 Interested in **Data Analytics, Machine Learning, AI, and Backend Development**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VikasReddyChaduvu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 <p align="left">
   <a href="mailto:vikasreddychaduvu@gmail.com">
