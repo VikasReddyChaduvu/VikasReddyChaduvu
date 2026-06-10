@@ -2,7 +2,6 @@
   Hi 👋, I'm Vikas Reddy Chaduvu
   <img src="https://komarev.com/ghpvc/?username=VikasReddyChaduvu&label=Views&color=0e75b6&style=flat" />
 </h1>
----
 
 ## 🚀 About Me
 
