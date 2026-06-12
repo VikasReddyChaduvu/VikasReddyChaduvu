@@ -4,6 +4,7 @@
 
 Computer Science graduate passionate about **Data Analytics, Machine Learning, Artificial Intelligence, and Backend Technologies**. I enjoy building intelligent systems, automation solutions, and data-driven applications while continuously learning modern technologies.
 
+- 🌱 Currently learning **MongoDB, RabbitMQ, Linux**
 - 💻 Interested in **Data Analytics, Machine Learning, AI, and Backend Development**
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=VikasReddyChaduvu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
