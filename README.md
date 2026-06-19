@@ -6,8 +6,12 @@ Computer Science graduate passionate about **Data Analytics, Machine Learning, A
 
 - 🌱 Currently learning **MongoDB, Linux**
 - 💻 Interested in **Software Development, Machine Learning, AI, and Backend Development**
-<p align="left">
+<!--<p align="left">
   <img src="https://komarev.com/ghpvc/?username=VikasReddyChaduvu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>-->
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=VikasReddyChaduvu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="left">
