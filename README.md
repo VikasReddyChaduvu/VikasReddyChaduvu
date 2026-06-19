@@ -50,10 +50,11 @@ Computer Science graduate passionate about **Data Analytics, Machine Learning, A
 </p>
 
 ---
-## 📊 GitHub Stats
+
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VikasReddyChaduvu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=VikasReddyChaduvu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!--## 🔥 GitHub Streak
