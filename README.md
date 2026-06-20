@@ -33,7 +33,7 @@ Computer Science graduate passionate about **Machine Learning, Artificial Intell
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
+<p align="middle">
 
 <img src="https://skillicons.dev/icons?i=c" />
 <img src="https://skillicons.dev/icons?i=html" />
