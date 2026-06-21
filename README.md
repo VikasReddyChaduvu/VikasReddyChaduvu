@@ -45,7 +45,7 @@ Computer Science graduate passionate about **Machine Learning, Artificial Intell
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=tensorflow" />
+
 <img src="https://skillicons.dev/icons?i=pytorch" />
 
 </p>
