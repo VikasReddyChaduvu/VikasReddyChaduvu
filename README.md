@@ -8,10 +8,6 @@ Computer Science graduate passionate about **Machine Learning, Artificial Intell
 - 💻 Interested in **Software Development, Machine Learning, AI, and Backend Development**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=VikasReddyChaduvu&label=PROFILE+VIEWS&color=blue&style=for-the-badge" />
-</p>
-
-<p align="left">
   <a href="mailto:vikasreddychaduvu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -27,6 +23,10 @@ Computer Science graduate passionate about **Machine Learning, Artificial Intell
   <a href="https://www.codechef.com/users/vikasreddy10">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge" />
   </a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=VikasReddyChaduvu&label=PROFILE+VIEWS&color=blue&style=for-the-badge" />
 </p>
 
 ---
