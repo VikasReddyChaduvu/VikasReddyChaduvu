@@ -20,7 +20,9 @@ Computer Science graduate passionate about **Machine Learning, Artificial Intell
   <a href="https://leetcode.com/u/vikasreddy10/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  
+  <a href="https://www.codechef.com/users/vikasreddy10">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="left">
