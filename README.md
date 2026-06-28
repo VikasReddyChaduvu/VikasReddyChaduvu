@@ -25,7 +25,7 @@ Computer Science graduate passionate about **Machine Learning, Artificial Intell
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=VikasReddyChaduvu&label=PROFILE+VIEWS&color=blue&style=for-the-badge" />
 </p>
 
