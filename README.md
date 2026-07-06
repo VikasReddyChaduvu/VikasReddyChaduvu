@@ -67,21 +67,29 @@ Computer Science graduate passionate about **Machine Learning, Artificial Intell
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 💻 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasReddyChaduvu&layout=compact&theme=tokyonight&hide_border=true" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasReddyChaduvu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400"
+  height="180"
+/>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=VikasReddyChaduvu&theme=tokyonight&hide_border=true" />
+<img
+  src="https://streak-stats.demolab.com?user=VikasReddyChaduvu&theme=tokyonight&hide_border=true"
+  height="180"
+/>
 
 </td>
+
 </tr>
 </table>
 
