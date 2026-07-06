@@ -63,7 +63,7 @@ Computer Science graduate passionate about **Machine Learning, Artificial Intell
 -->
 ---
 
-## 📊 GitHub Statistics
+<!--## 📊 GitHub Statistics
 
 <table>
 <tr>
@@ -92,7 +92,12 @@ Computer Science graduate passionate about **Machine Learning, Artificial Intell
 
 </tr>
 </table>
+-->
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VikasReddyChaduvu&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 📈 Contribution Graph
