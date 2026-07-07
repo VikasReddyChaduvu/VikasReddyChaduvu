@@ -57,9 +57,16 @@ Computer Science graduate passionate about **Machine Learning, Artificial Intell
 
 ## 🔥 GitHub Streak
 
+<!--
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=VikasReddyChaduvu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+-->
+
+<img
+  src="https://streak-stats.demolab.com?user=VikasReddyChaduvu&theme=tokyonight&hide_border=true"
+  height="180"
+/>
 
 ---
 
