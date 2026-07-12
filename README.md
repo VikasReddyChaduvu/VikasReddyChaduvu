@@ -109,18 +109,6 @@ Computer Science graduate passionate about **Machine Learning, Artificial Intell
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=VikasReddyChaduvu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasReddyChaduvu&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -144,14 +132,6 @@ Computer Science graduate passionate about **Machine Learning, Artificial Intell
 | 💛 LeetCode | [leetcode.com/u/vikasreddy10](https://leetcode.com/u/vikasreddy10/) |
 | 🤎 CodeChef | [codechef.com/users/vikasreddy10](https://www.codechef.com/users/vikasreddy10) |
 | 🐙 GitHub | [github.com/VikasReddyChaduvu](https://github.com/VikasReddyChaduvu) |
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VikasReddyChaduvu&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
 
 ---
 
