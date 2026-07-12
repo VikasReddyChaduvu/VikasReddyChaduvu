@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Reddy Chaduvu</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate;Machine+Learning+%7C+Artificial+Intelligence+Enthusiast;Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
-
----
 
 ## 🚀 About Me
 
