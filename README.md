@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikas Reddy Chaduvu</h1>
 
+---
 
 ## 🚀 About Me
 
@@ -109,10 +110,11 @@ Computer Science graduate passionate about **Machine Learning, Artificial Intell
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=VikasReddyChaduvu&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VikasReddyChaduvu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasReddyChaduvu&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -125,13 +127,33 @@ Computer Science graduate passionate about **Machine Learning, Artificial Intell
 
 ---
 
-# 🏆 Coding Profiles
+# 📊 GitHub Activity & Coding Profiles
+
+<table>
+<tr>
+
+<td width="55%" align="center">
+
+<h3>🔥 GitHub Streak</h3>
+
+<img src="https://streak-stats.demolab.com?user=VikasReddyChaduvu&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+<td width="45%" valign="top">
+
+<h3>🏆 Coding Profiles</h3>
 
 | Platform | Profile |
 |----------|---------|
-| 💛 LeetCode | [leetcode.com/u/vikasreddy10](https://leetcode.com/u/vikasreddy10/) |
-| 🤎 CodeChef | [codechef.com/users/vikasreddy10](https://www.codechef.com/users/vikasreddy10) |
-| 🐙 GitHub | [github.com/VikasReddyChaduvu](https://github.com/VikasReddyChaduvu) |
+| 💛 **LeetCode** | [vikasreddy10](https://leetcode.com/u/vikasreddy10/) |
+| 🤎 **CodeChef** | [vikasreddy10](https://www.codechef.com/users/vikasreddy10) |
+| 🐙 **GitHub** | [VikasReddyChaduvu](https://github.com/VikasReddyChaduvu) |
+
+</td>
+
+</tr>
+</table>
 
 ---
 
