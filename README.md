@@ -131,18 +131,6 @@ Computer Science graduate passionate about **Machine Learning, Artificial Intell
 
 </td>
 
-<td width="45%" valign="top">
-
-<h3>🏆 Coding Profiles</h3>
-
-| Platform | Profile |
-|----------|---------|
-| 💛 **LeetCode** | [vikasreddy10](https://leetcode.com/u/vikasreddy10/) |
-| 🤎 **CodeChef** | [vikasreddy10](https://www.codechef.com/users/vikasreddy10) |
-| 🐙 **GitHub** | [VikasReddyChaduvu](https://github.com/VikasReddyChaduvu) |
-
-</td>
-
 </tr>
 </table>
 
