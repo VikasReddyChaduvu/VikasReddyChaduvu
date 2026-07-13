@@ -118,7 +118,7 @@ Computer Science graduate passionate about **Machine Learning, Artificial Intell
 
 ---
 
-# 📊 GitHub Activity & Coding Profiles
+# 📊 GitHub Activity
 
 <table>
 <tr>
