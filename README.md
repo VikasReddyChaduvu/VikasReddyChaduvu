@@ -138,4 +138,4 @@ Computer Science graduate passionate about **Machine Learning, Artificial Intell
 
 # 💡 Quote
 
-> **""**
+> **"Success is built one commit, one bug fix, and one lesson at a time."**
