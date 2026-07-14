@@ -138,4 +138,4 @@ Computer Science graduate passionate about **Machine Learning, Artificial Intell
 
 # 💡 Quote
 
-> **"Stay curious. Keep building. Never stop learning."**
+> **""**
