@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Reddy Chaduvu</h1>
 
----
 
 ## 🚀 About Me
 
