@@ -116,6 +116,7 @@ Computer Science graduate passionate about **Machine Learning, Artificial Intell
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VikasReddyChaduvu&theme=react-dark&hide_border=true"/>
 </p>
 
+<!---
 ---
 
 # 📊 GitHub Activity
@@ -133,7 +134,7 @@ Computer Science graduate passionate about **Machine Learning, Artificial Intell
 
 </tr>
 </table>
-
+--->
 ---
 
 # 💡 Quote
